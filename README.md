@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&text=✨%20drg.%20M.%20Aksa%20Arsyad,%20S.KG%20✨&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Dental%20Surgeon%20%7C%20Full-Stack%20Scripter&descAlignY=55&descAlign=60" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&text=🤖%20drg.%20M.%20Aksa%20Arsyad,%20S.KG%20🤖&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Dental%20Surgeon%20%7C%20Full-Stack%20Scripter&descAlignY=55&descAlign=60" width="100%" alt="Header Banner"/>
 </p>
 
 <h2 align="center">
@@ -48,7 +48,7 @@
 <h3 align="center">🏆 Achievements</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=raphunteks&theme=pastel&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=raphunteks&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -72,22 +72,27 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=raphunteks&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphunteks&layout=donut&theme=radical&hide_border=true&langs_count=5" alt="Top Languages Donut Graph" />
       </td>
       <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=raphunteks&theme=radical&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-stats.vercel.app/api?username=raphunteks&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphunteks&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=raphunteks&theme=radical&hide_border=true" alt="GitHub Streak" />
       </td>
       <td align="center">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+        <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Random Dev Quote / Joke" />
       </td>
     </tr>
   </table>
 </div>
+
+<h3 align="center">🔥 Coding Activity Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raphunteks&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
+</p>
 
 <br />
 
