@@ -41,19 +41,18 @@
 <br />
 
 <h3 align="center">📈 GitHub Analytics</h3>
-<table align="center" style="border-collapse: collapse; border: none;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: transparent;">
   <tr>
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=raphunteks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=66B2FF&icon_color=C678DD" alt="GitHub Stats" width="400" />
+    <td align="center" style="padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=raphunteks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=66B2FF&icon_color=C678DD" alt="GitHub Stats" />
     </td>
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=raphunteks&theme=tokyonight&hide_border=true&background=0D1117&ring=66B2FF&fire=C678DD&currStreakLabel=66B2FF" alt="GitHub Streak" width="400" />
+    <td align="center" style="padding: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=raphunteks&theme=tokyonight&hide_border=true&background=0D1117&ring=66B2FF&fire=C678DD&currStreakLabel=66B2FF" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" style="border: none;">
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphunteks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=66B2FF" alt="Top Languages" width="500" />
+    <td colspan="2" align="center" style="padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphunteks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=66B2FF" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -61,29 +60,29 @@
 <br />
 
 <h3 align="center">🚀 Highlighted Projects</h3>
-<table align="center" width="85%">
+<table align="center" width="85%" border="1" style="border-collapse: collapse; border-color: #30363D;">
   <thead>
-    <tr align="left">
-      <th width="20%">💻 Project Name</th>
-      <th width="50%">📝 Description</th>
-      <th width="30%">🛠️ Tech Stack</th>
+    <tr align="left" style="background-color: #161B22;">
+      <th width="20%" style="padding: 10px;">💻 Project Name</th>
+      <th width="50%" style="padding: 10px;">📝 Description</th>
+      <th width="30%" style="padding: 10px;">🛠️ Tech Stack</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b><a href="#">Axa ISHIP</a></b></td>
-      <td>A comprehensive tracking and management system designed to streamline operational workflows and medical protocols.</td>
-      <td><code>Node.js</code> <code>Express</code> <code>Tailwind</code></td>
+      <td style="padding: 10px;"><b><a href="#">Axa ISHIP</a></b></td>
+      <td style="padding: 10px;">A comprehensive tracking and management system designed to streamline operational workflows and medical protocols.</td>
+      <td style="padding: 10px;"><code>Node.js</code> <code>Express</code> <code>Tailwind</code></td>
     </tr>
     <tr>
-      <td><b><a href="#">AxaHub & ExHub</a></b></td>
-      <td>Advanced, centralized execution hubs tailored for compiling, managing, and running complex Lua scripts seamlessly.</td>
-      <td><code>Lua</code> <code>JavaScript</code> <code>UI/UX</code></td>
+      <td style="padding: 10px;"><b><a href="#">AxaHub & ExHub</a></b></td>
+      <td style="padding: 10px;">Advanced, centralized execution hubs tailored for compiling, managing, and running complex Lua scripts seamlessly.</td>
+      <td style="padding: 10px;"><code>Lua</code> <code>JavaScript</code> <code>UI/UX</code></td>
     </tr>
     <tr>
-      <td><b><a href="#">Axa Cookie</a></b></td>
-      <td>A robust security utility built for secure session handling, cookie management, and authentication bypass workflows.</td>
-      <td><code>React</code> <code>Node.js</code> <code>MongoDB</code></td>
+      <td style="padding: 10px;"><b><a href="#">Axa Cookie</a></b></td>
+      <td style="padding: 10px;">A robust security utility built for secure session handling, cookie management, and authentication bypass workflows.</td>
+      <td style="padding: 10px;"><code>React</code> <code>Node.js</code> <code>MongoDB</code></td>
     </tr>
   </tbody>
 </table>
