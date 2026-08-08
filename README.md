@@ -6,23 +6,31 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=🚀+Welcome+to+My+Creative+Space!;🦷+Dentist+(PIDGI)+by+Day;💻+Full-Stack+Scripter+by+Night;🌟+Building+AxaHub,+ExHub,+&+Axa+ISHIP" alt="Typing SVG" />
 </h2>
 
-<p align="center">
+<img data-importer="image" align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Z2cWQ4eWVyYnp2dnYyNGF6c2lxMDZsYTlvczNra3p1NnMxMnh5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DZKZmyqwy94SKeKG94/giphy.gif" />
+
+<h2 data-importer="text" align="left">Hi 👋! My name is drg. M. Aksa Arsyad, S.KG and I'm a Dental Surgeon & Full-Stack Scripter, from Makassar, South Sulawesi.</h2>
+
+<p align="left">
   <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy2/giphy.gif" width="35" alt="Waving Hand"> 
   <i>Bridging the gap between <b>healthcare</b> and <b>high-performance code</b>.</i>
 </p>
 
-<p align="center">
-  <a href="mailto:email-kamu@example.com">
-    <img src="https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<div data-importer="socials" align="left">
+  <a href="https://www.instagram.com/axaaxyz_01" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:itsmeaxaa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://discord.com/">
-    <img src="https://img.shields.io/badge/Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discordapp.com/users/hexantuy9191" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-</p>
+  <a href="https://www.linkedin.com/in/drg-m-aksa-arsyad-4b95b2428/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
+<br clear="both">
 <br />
 
 ---
@@ -63,21 +71,36 @@
   </a>
 </p>
 
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
 <br />
 
 ---
 
-### 📈 Dynamic Analytics & Stats (Radical Theme)
+### 📈 Dynamic Analytics & Stats
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/raphunteks/raphunteks/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/raphunteks/raphunteks/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<br />
+
 <div align="center">
   <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphunteks&layout=donut&theme=radical&hide_border=true&langs_count=5" alt="Top Languages Donut Graph" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=raphunteks&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      </td>
-    </tr>
     <tr>
       <td align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=raphunteks&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -89,9 +112,13 @@
   </table>
 </div>
 
-<h3 align="center">🔥 Coding Activity Graph</h3>
+<h3 align="center">🔥 Coding Activity Graph & Snake</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raphunteks&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img data-importer="snake" src="https://raw.githubusercontent.com/raphunteks/raphunteks/snake-output/snake.svg" alt="Snake animation" />
 </p>
 
 <br />
