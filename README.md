@@ -106,9 +106,12 @@
   </table>
 </div>
 
-<h3 align="center">🔥 Coding Activity Graph & Snake</h3>
+<h3 align="center">🔥 Coding Activity Graph (Last 31 Days) & Snake</h3>
 <p align="center">
-  <img data-importer="snake" src="https://raw.githubusercontent.com/raphunteks/raphunteks/snake-output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raphunteks&theme=dracula&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+<p align="center">
+  <img data-importer="snake" src="https://raw.githubusercontent.com/raphunteks/raphunteks/snake-output/snake.svg?v=1" alt="Snake animation" />
 </p>
 
 <br />
